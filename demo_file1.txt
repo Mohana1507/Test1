@@ -1,1 +1,2 @@
 message from file1
+hello all
