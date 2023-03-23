@@ -1,2 +1,2 @@
-message from file1
+message from file1.txt
 hello all
