@@ -1,6 +1,0 @@
-Hello
-<<<<<<< HEAD
-Have a nice day priya raguvaran
-=======
-good evening
->>>>>>> test2_branch1
